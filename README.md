@@ -1,5 +1,6 @@
 # Datahouse
 # KingHouse: King County House Sales Analysis
+![House Visualization](./housePicc.jpg)
 
 ## Project Overview
 
