@@ -8,7 +8,7 @@ The **KingHouse** project is an end-to-end data analysis project focused on unde
 
 ### Tableau Public Link
 
-You can interact with the dashboard [here]([https://public.tableau.com/app/profile/mina.wahba/viz/KingHouse/KingCountyHouseSales).
+You can interact with the dashboard [here](https://public.tableau.com/app/profile/mina.wahba/viz/KingHouses_Prices/KingCountyHouseSales).
 ![Project Screenshot](./Screenshot%202025-01-18%20231826.png](https://public.tableau.com/app/profile/mina.wahba/viz/KingHouses_Prices/KingCountyHouseSales))
 
 ---
